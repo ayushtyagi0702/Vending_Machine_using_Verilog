@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: NATIONAL INSTITUTE OF TECHNOLOGY WARANGAL
-// Engineer: NARENDRA KUMAR NEHRA 
+// Company: ABES ENGINEERING COLLEGE , GHAZIABAD
+// Engineer: Ayush Tyagi
 // 
-// Create Date: 21.04.2023 23:58:35
+// Create Date: 21.04.2024 23:58:35
 // Design Name: 
 // Module Name: VENDING_MACHINE
 //////////////////////////////////////////////////////////////////////////////////
